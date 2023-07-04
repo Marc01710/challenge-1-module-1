@@ -9,7 +9,8 @@
 
 ## Installation
 
-N/A
+Link to deployed website: https://marc01710.github.io/challenge-1-module-1/
+Link to github repository: https://github.com/Marc01710/challenge-1-module-1
 
 ## Usage
 
